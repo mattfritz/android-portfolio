@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="RelativeLayout.Background">#E3F2FD</color>
+    <color name="Button.Background.Default">#F08C35</color>
+    <color name="Button.Background.Capstone">#F44336</color>
+    <color name="Button.Text.Capstone">#FFFFFF</color>
+</resources>
